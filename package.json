@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/asell22/timestamp-microservice/issues"
   },
-  "homepage": "https://github.com/asell22/timestamp-microservice#readme"
+  "homepage": "https://github.com/asell22/timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
